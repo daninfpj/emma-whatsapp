@@ -1,0 +1,7 @@
+{
+    "name": "emma-whatsapp",
+    "devDependencies": {
+        "@prettier/plugin-ruby": "^0.10.0",
+        "prettier": "^1.16.4"
+    }
+}
